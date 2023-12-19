@@ -30,4 +30,4 @@ jobs:
         with:
           name: components
           path: |
-            qodly_*.zip
+            dist/**
