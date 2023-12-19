@@ -10,4 +10,4 @@ Run Build:
     - npm run build
   artifacts:
     paths:
-      - qodly_*.zip
+      - dist/**
